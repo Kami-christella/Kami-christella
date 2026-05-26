@@ -16,7 +16,7 @@
 `JavaScript` `Python` `TypeScript` `Java` `PHP` `c#`
 
 **Frameworks & Libraries**
-`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `FastAPI` `Spring Boot` `Tailwind CSS` `React Native` `.NET`
+`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `Django` `Spring Boot` `Tailwind CSS` `React Native` `.NET`
 
 **AI & Machine Learning**
 `Claude API` `OpenAI API` `LangGraph` `Prompt Engineering` `RAG pipelines`
