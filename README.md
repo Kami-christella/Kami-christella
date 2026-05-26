@@ -13,10 +13,10 @@
 ### 🧠 Tech Stack
 
 **Languages**
-`Python` `JavaScript` `TypeScript` `Java`
+`JavaScript` `Python` `TypeScript` `Java` `PHP` `c#`
 
 **Frameworks & Libraries**
-`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `FastAPI` `Spring Boot` `Tailwind CSS` `React Native`
+`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `FastAPI` `Spring Boot` `Tailwind CSS` `React Native` `.NET`
 
 **AI & Machine Learning**
 `Claude API` `OpenAI API` `LangGraph` `Prompt Engineering` `RAG pipelines`
@@ -25,4 +25,4 @@
 `MongoDB` `PostgreSQL` `MySQL`
 
 **Tools & Platforms**
-`Microsoft Azure` `AWS` `GitHub` `Docker` `Power BI` `Swagger` `CVAT` `Trello`
+`Microsoft Azure` `AWS` `GitHub` `Docker` `Power BI` `Swagger` `CVAT` `Trello` 
