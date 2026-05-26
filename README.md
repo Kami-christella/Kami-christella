@@ -2,13 +2,13 @@
 
 **Software Engineer · AI & Machine Learning Enthusiast · Builder of intelligent systems**
 
-🔭 Currently building an **AI-powered e-learning platform** — automated marking, personalized insights, and real-time conversation tutoring
-🌱 Deepening my knowledge in **Machine Learning**, AI agent systems, and scalable backend architecture
-⚙️ Interested in backend systems, REST & GraphQL APIs, and AI integration in production apps
-🤝 Open to collaboration on impactful tech projects — especially at the intersection of AI and real-world access
-💬 Ask me about Python, FastAPI, Node.js, AI systems, or full-stack development
-📫 Reach me at: **kamichristella@gmail.com**
-⚡ Fun fact: I enjoy making computers do the boring work so humans don't have to 😄
+  🔭 Currently building an **AI-powered e-learning platform** —  to automate teaching tasks and improve student learning 
+  🌱 Deepening my knowledge in **Machine Learning**, AI agent systems, and scalable backend architecture
+  ⚙️ Interested in backend systems, REST & GraphQL APIs, and AI integration in production apps
+  🤝 Open to collaboration on impactful tech projects — especially at the intersection of AI and real-world access
+  💬 Ask me about Python, FastAPI, Node.js, AI systems, or full-stack development
+  📫 Reach me at: **kamichristella@gmail.com**
+  ⚡ Fun fact: I enjoy making computers do the boring work so humans don't have to 😄
 
 ### 🧠 Tech Stack
 
