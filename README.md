@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Christella 👋
 
-<!--
-**Kami-christella/Kami-christella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer · AI & Machine Learning Enthusiast · Builder of intelligent systems**
 
-Here are some ideas to get you started:
+🔭 Currently building an **AI-powered e-learning platform** — automated marking, personalized insights, and real-time conversation tutoring
+🌱 Deepening my knowledge in **Machine Learning**, AI agent systems, and scalable backend architecture
+⚙️ Interested in backend systems, REST & GraphQL APIs, and AI integration in production apps
+🤝 Open to collaboration on impactful tech projects — especially at the intersection of AI and real-world access
+💬 Ask me about Python, FastAPI, Node.js, AI systems, or full-stack development
+📫 Reach me at: **kamichristella@gmail.com**
+⚡ Fun fact: I enjoy making computers do the boring work so humans don't have to 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Tech Stack
+
+**Languages**
+`Python` `JavaScript` `TypeScript` `Java`
+
+**Frameworks & Libraries**
+`React.js` `Next.js` `Node.js` `Express.js` `NestJS` `FastAPI` `Spring Boot` `Tailwind CSS` `React Native`
+
+**AI & Machine Learning**
+`Claude API` `OpenAI API` `LangGraph` `Prompt Engineering` `RAG pipelines`
+
+**Databases**
+`MongoDB` `PostgreSQL` `MySQL`
+
+**Tools & Platforms**
+`Microsoft Azure` `AWS` `GitHub` `Docker` `Power BI` `Swagger` `CVAT` `Trello`
